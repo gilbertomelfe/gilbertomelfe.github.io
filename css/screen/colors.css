@@ -1,0 +1,47 @@
+html {
+
+    background-color: black;
+    color: white;
+
+
+}
+
+
+header {
+
+    background-image: url( "../../images/homepage_Header_Backing.png" );
+    color: white;
+
+
+}
+
+
+nav {
+
+    background: rgba(38, 38, 38, 0.5);
+
+
+
+}
+
+
+nav ul li {
+
+    color: white;
+
+}
+
+nav ul li a {
+
+    color: white;
+
+}
+
+nav ul li a:hover {
+
+    color: red;
+
+
+}
+
+
